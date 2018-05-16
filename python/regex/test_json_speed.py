@@ -1,5 +1,5 @@
 import json
-msg={'remote_addr': '221.205.146.134', \
+msg={'remote_addr': '192.168.0.1', \
      'request_length': '912', \
      'body_bytes_sent': '63', \
      'request_time': '0.030', \
@@ -9,7 +9,7 @@ msg={'remote_addr': '221.205.146.134', \
      'http_referer': "-", \
      'http_user_agent': "Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; NX507J Build/KVT49L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30;360appstore",  \
      'server_name': '*.mobilem.360.cn',  \
-     'server_addr': '10.121.212.185', \
+     'server_addr': '192.168.0.1', \
      'http_x_forwarded_for': '-', \
      'http_x_real_ip': '-', \
      'https': ''}

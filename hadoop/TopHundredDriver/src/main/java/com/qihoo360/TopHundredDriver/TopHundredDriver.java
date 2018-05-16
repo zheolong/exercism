@@ -240,7 +240,7 @@ public class TopHundredDriver
         String curInputFileName = inputFileList.get(0);
 
         //Path pt=new Path("hdfs://localhost:9000" + otherArgs[2]);
-        Path pt=new Path("hdfs://10.248.31.37:8020" + otherArgs[2]);
+        Path pt=new Path("hdfs://192.168.0.1:8020" + otherArgs[2]);
         BufferedReader br=new BufferedReader(new InputStreamReader(fs.open(pt)));
         String line;
         line=br.readLine();
