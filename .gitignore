@@ -17,7 +17,6 @@ target
 *.svn*
 *tags*
 *.bak
-Makefile
 CMakeCache.txt
 *.gdbm
 *.cmake
